@@ -243,9 +243,11 @@ ul.nostyle i {
   line-height: 1;
   text-transform: uppercase;
   color: #fff;
+  text-shadow: 6px 6px 6px black;
 }
 #main-slider .slider-inner h2 > span {
   color: #45aed6;
+  text-shadow: 6px 6px 6px black;
 }
 #main-slider .slider-inner .btn {
   margin-top: 10px;
